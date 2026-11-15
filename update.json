@@ -1,0 +1,18 @@
+{
+  "versionName": "1.2.3.4.5.6.7.8.9",
+  "versionCode": 123456789,
+  "apkUrl": "https://raw.githubusercontent.com/Yusuf-Ardiansyah/OTA-SLIM/main/Y-Tube.apk",
+  "fileSize": 223679,
+  "sizeFormatted": "218.44 KB",
+  "sha256": "f20d92f574e89539c97683226df14cc22719f68b252a4c1a68408bd8a33a9e25",
+  "crcManifest": "0xF3072EC4",
+  "crcResources": "0xDEAB61C4",
+  "changelog": [
+    "[+] Pure Native Kotlin (218.44 KB)",
+    "[+] Zero Coroutines & MediaSession",
+    "[+] Audio Transisi Halus 0% Srek",
+    "[+] Share Sheet Semua Aplikasi",
+    "[+] Proteksi 3-Lapis SaktiGuard",
+    "[+] Blokir Iklan & Anti-Blackscreen"
+  ]
+}
