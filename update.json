@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.3.4.5.6.7.9.0",
-  "versionCode": 123456790,
+  "versionName": "1.2.3.4.5.6.7.9.1",
+  "versionCode": 123456791,
   "apkUrl": "https://raw.githubusercontent.com/Yusuf-Ardiansyah/OTA-SLIM/main/Y-Tube.apk",
   "fileSize": 223679,
   "sizeFormatted": "218.44 KB",
-  "sha256": "312a3b2d4fd7a221678d5aaca20598c5c745b49f0cf44c030c0bfc77eaf91ad4",
-  "crcManifest": "0x284CF89A",
+  "sha256": "3735a36613f49eff3bede1cfc86583088565c728698270a7b9a6ca1155a5b8fc",
+  "crcManifest": "0x542F9069",
   "crcResources": "0xDEAB61C4",
   "changelog": [
     "[+] Pure Native Kotlin (218.44 KB)",
