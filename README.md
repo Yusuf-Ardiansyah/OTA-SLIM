@@ -4,7 +4,6 @@
 
 <br/>
 
-<img src="youtube.png" alt="Y-TUBE SLIM Logo" width="130" />
 
 # 👑 Y-TUBE SLIM EDITION 👑
 **Next-Gen Ultra-Lightweight Native Android YouTube Client**  
