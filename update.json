@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.3.4.5.6.7.9.18",
-  "versionCode": 123456808,
+  "versionName": "1.2.3.4.5.6.7.9.19",
+  "versionCode": 123456809,
   "apkUrl": "https://raw.githubusercontent.com/Yusuf-Ardiansyah/OTA-SLIM/main/Y-Tube.apk",
   "fileSize": 203635,
   "sizeFormatted": "198.86 KB",
-  "sha256": "010111dece1cb9c222f94517c2c9f468d067a823ab44512890f91cc2457c6180",
-  "crcManifest": "0xD2CF26B2",
+  "sha256": "8d5a18e01a5f49d8d9eaa7314053b50d40bee5e4862ca03ed08d7eb6bfc382e0",
+  "crcManifest": "0x4B76C3A5",
   "crcResources": "0xEB8DA569",
   "changelog": [
     "[+] Pure Native 0% AndroidX (198.86 KB)",
